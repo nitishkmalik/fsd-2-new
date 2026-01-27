@@ -1,16 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+In this experiment we have Design UI using component libraries. In this by using 'npm create vite@latest Exp2' we created exp 1 and in this we select react framework and javascript and installed it with npm(node package manager) and used npm run dev to run our web page. Inside exp1 in src folder we have made a folder component in src and made 3 files about.jsx , home.jsx , contact.jsx and made diffeent components and imported app and home.jsx in spa.jsx and i UI folder we made 5 files button.jsx , checkbox.js , rating.jsx , select.jsx , textfield.jsx whereas in app.jsx file we imported home , about , contact  whereas we used ' npm install react-router-dom' to move between pages in a React app without reloading the page. after that we pushed it into git and deployed dist into netlify manually . In static web page it shows same content does not change whereas in dynamic web page conteny changes and responds to user.
