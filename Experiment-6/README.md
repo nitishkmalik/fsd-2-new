@@ -1,12 +1,9 @@
-#Learning Outcomes:
- - Learned to build a fully functional form using Material UI components such as TextField, Radio buttons, Checkboxes, and Buttons in a React application.
+Master Form State Management: Learn how to use React's useState hook to manage form input values and error states, enabling real-time form control and validation feedback.
 
-- Gained hands-on experience in implementing client-side form validation, including required field checks, email format validation, and conditional submission.
+Implement Client-Side Validation: Understand how to validate form inputs on the client side with custom validation logic for email format and password requirements before submission.
 
-- Understood how to apply global CSS resets (margin: 0, padding: 0) to eliminate default browser styling issues like unwanted white gaps.
+Integrate Material-UI Components: Discover how to use Material-UI's pre-built components (TextField, Button, Container, Typography) to create professional-looking forms with minimal styling effort.
 
-- Learned to design a responsive and visually appealing UI using MUI’s Box component, gradients, and card-based layouts.
+Handle Form Submission and Error Display: Learn to prevent default form submission, validate inputs, and display user-friendly error messages using Material-UI's built-in error styling and helper text features.
 
-- Developed understanding of best practices in React form handling, including state management with useState, controlled components, and clean separation of logic and UI.
-# Screenshots
-![alt text](image.png)
+<img width="1920" height="1080" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/b74f3448-d8c6-4e80-9327-1e483c8ebe06" />
